@@ -8,7 +8,7 @@
 /**
  * Generate a pseudo-random password
  * @param n numerical expresion (size of the password)
- * @retrun return the generated password 
+ * @return return the generated password 
  */
 char* password(int n) 
 {
